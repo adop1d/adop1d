@@ -1,4 +1,4 @@
-<h2 align="left">Bienvenido! Soy Kelvin, mucho gusto. soy un programador Junior, estás interesado en algo? :)</h2>
+<h2 align="left">Hola! Soy Kelvin, Bienvenido a mi GitHub</h2>
 
 ###
 

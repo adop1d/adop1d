@@ -1,4 +1,3 @@
-<h3 align="left">Bienvenido a mi GitHub</h3>
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Hola! Soy Kelvin, Bienvenido a mi GitHub</h2>
+<h3 align="left">Bienvenido a mi GitHub</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Tecnologías:</h2>
+<h3 align="left">Tecnologías:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />

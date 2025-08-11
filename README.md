@@ -35,10 +35,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adop1d/adop1d/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adop1d/count.svg?"  />
-</div>
-
-###

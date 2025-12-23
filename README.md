@@ -1,5 +1,5 @@
 # ⚡ Kelvin Puch
-> **Fullstack Developer & AI Foundations Certified** |
+> **Web/Backend Developer & AI Foundations Certified** |
 
 Combinando la robustez del Backend con el poder de la Inteligencia Artificial. Me especializo en arquitecturas modernas, desde el entrenamiento teórico de modelos hasta el despliegue de APIs escalables.
 
@@ -18,8 +18,8 @@ Certificado por **Oracle Cloud Infrastructure (OCI)** y **Cognitive Class (IBM)*
 | Área | Tecnologías |
 | :--- | :--- |
 | **Backend** | Python (**Django**), Java (**Spring Boot**), Hibernate/JPA |
-| **Frontend** | **React.js**, JavaScript (ES6+), HTML5/CSS3, SASS, Tailwind |
-| **AI/Data** | Jupyter, Oracle Data Science |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5/CSS3, SASS, Tailwind |
+| **AI/Data** | Ollama, Jupyter, Oracle Data Science |
 | **DevOps** | **Docker**, PostgreSQL/MySQL, Bash Scripting, Git/GitHub |
 
 

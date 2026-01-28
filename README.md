@@ -1,4 +1,4 @@
-# ⚡ Kelvin Puch
+# Kelvin Puch
 > **Web/Backend Developer & AI Foundations Certified** |
 
 Combinando la robustez del Backend con el poder de la Inteligencia Artificial. Me especializo en arquitecturas modernas, desde el entrenamiento teórico de modelos hasta el despliegue de APIs escalables.

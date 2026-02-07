@@ -1,8 +1,8 @@
 # Kelvin Puch
-> ** Junior FullStack/Web Developer & AI Foundations Certified** |
+** Junior FullStack/Web Developer & AI Foundations Certified** |
 ---
 
-### Ceertified: SQL, AI Foundations, Java, Python Essentials I - II
+### Certified: SQL, AI Foundations, Java, Python Essentials I - II
 Certificado por **Oracle Cloud Infrastructure (OCI)**, **IBM** **CISCO** y **EDTeam**:
 * **Generative AI & LLMs:** Conocimiento profundo en Large Language Models, Fine-tuning y arquitecturas de IA moderna.
 * **EDteam:** Java desde Cero.

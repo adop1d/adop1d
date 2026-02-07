@@ -1,7 +1,7 @@
 # Kelvin Puch
 > **Junior FullStack/Web Developer & AI Foundations Certified** |
 ---
- ![image]([(https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white))
+ ![image]((https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white))
 
 ### Certified: SQL, AI Foundations, Java, Python
 Certificado por **Oracle Cloud Infrastructure (OCI)**, **IBM** **CISCO** y **EDTeam**:

@@ -18,4 +18,4 @@
 | **Backend** | Python (**Django**), Java (**Spring Boot**), Hibernate/JPA |
 | **Frontend** | React.js, JavaScript (ES6+), HTML5/CSS3, SASS, Tailwind |
 | **AI/Data** | Ollama, Jupyter, Oracle Cloud Infrastructure (Data Science) |
-| **DevOps** | PostgreSQL/MySQL, Bash Scripting, Git/GitHub |
+| **DevOps/DB** | PostgreSQL/MySQL, Bash Scripting, Git/GitHub |

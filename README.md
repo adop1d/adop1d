@@ -8,6 +8,7 @@
 * **Generative AI & LLMs:** Conocimiento profundo en Large Language Models, Fine-tuning y arquitecturas de IA moderna.
 * **EDteam:** Java desde Cero.
 * **CISCO:** Python Essentials I, II.
+* **CISCO:** Data Analytics Essentials.
 
 ---
 

@@ -1,22 +1,21 @@
 # Kelvin Puch
-> **Junior FullStack/Web Developer, Data Analytics & AI Foundations Certified** 
+> ** jr full stack web developer, data analytics** 
 ---
 <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-### Certified: SQL, AI Foundations, Java, Python
+### 01. - certified: SQL, AI foundations, java, python
 **Oracle Cloud Infrastructure (OCI)**, **IBM,** **CISCO** y **EDTeam**:
-* **Generative AI & LLMs:** Conocimiento profundo en Large Language Models, Fine-tuning y arquitecturas de IA moderna.
-* **EDteam:** Java desde Cero.
-* **CISCO:** Python Essentials I, II.
-* **CISCO:** Data Analytics Essentials.
+* **Generative AI & LLMs**
+* **EDteam:** Java.
+* **CISCO:** Python Essentials I, II, Data Analytics Essentials.
 
 ---
 
-### Stack
+### 02. - stack
 
-| Área | Tecnologías |
+| area | tech |
 | :--- | :--- |
-| **Backend** | Python (**Django**), Java (**Spring Boot**), Hibernate/JPA |
-| **Frontend** | React.js, JavaScript (ES6+), HTML5/CSS3, SASS, Tailwind |
-| **AI/Data** | Ollama, Jupyter, Oracle Cloud Infrastructure (Data Science) |
-| **DevOps/DB** | PostgreSQL/MySQL, Bash Scripting, Git/GitHub |
+| **backend** | python (**django**), java (**spring boot**) |
+| **frontend** | react.js, HTML5/CSS3, tailwind |
+| **devops-db** | postgresql/MySQL, bash/shell, git/github, docker |
+| **ai** | ollama, opencode, agents, mcps, etc. |

@@ -6,7 +6,7 @@
 ### 01. - certified
 > *sql, ai foundations, java, python*
 
-##### *Oracle Cloud Infrastructure (OCI)**, **CISCO** & **EDTeam*:
+##### *Oracle Cloud Infrastructure (OCI), CISCO & EDTeam*:
 * **OCI Generative AI & LLMs**
 * **EDteam:** Java.
 * **CISCO:** Python Essentials I, II, Data Analytics Essentials.
@@ -16,7 +16,7 @@
 
 | area | tech |
 | :--- | :--- |
-| **backend** | python (**django**), java (**spring boot**) |
-| **frontend** | react.js, HTML5/CSS3, tailwind |
-| **devops-db** | postgresql/MySQL, bash/shell, git/github, docker |
-| **ai** | ollama, opencode, agents, mcps, etc. |
+| backend | python (**django**), java (**spring boot**) |
+| frontend | react.js, html/css, tailwind |
+| devops-db | postgresql/mysql, bash/shell, git/github, docker |
+| ai | ollama, opencode, agents, mcps, etc. |

@@ -10,7 +10,7 @@
 * **OCI Generative AI & LLMs**
 * **EDteam:** Java.
 * **CISCO:** Python Essentials I, II, Data Analytics Essentials.
-* **EF SET:** Ingles B2 Upper Intermediate Certified.
+* **EF SET:** English B2 Upper Intermediate Certified.
 
 
 ### 02. - stack

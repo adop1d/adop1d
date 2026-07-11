@@ -9,6 +9,7 @@
 * **EDteam:** Java.
 * **CISCO:** Python Essentials I, II, Data Analytics Essentials.
 * **EF SET:** English B2 Upper Intermediate Certified.
+* **Udemy:** K8s
 
 
 ### 02. - stack

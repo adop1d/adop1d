@@ -1,5 +1,5 @@
 # Kelvin Puch
-##### *Kelvin is a junior programmer and a certified data analyst*
+##### *Kelvin is a junior developer*
 
 ### 01. certified
 > *ai foundations, java, python, data analytics*
@@ -16,7 +16,7 @@
 
 | area | tech |
 | :--- | :--- |
-| backend | **django**, **spring boot** |
-| frontend | react.js, html/css, tailwind, wordpress |
-| devops/db | postgresql/mysql, bash/shell, git/github, docker, k8s |
-| ai | harness, agents, mcps, skills, etc. |
+| backend | **spring boot**, **django** |
+| frontend | react.js, next.js, html/css, tailwind |
+| devops/db | postgresql, bash/shell, git/github, docker, k8s |
+| ai | agents, mcps, skills, etc. |

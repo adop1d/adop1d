@@ -1,7 +1,7 @@
 # Kelvin Puch
 ##### *Kelvin is a junior developer*
 
-### 01. certified
+### certified
 > *ai foundations, java, python, data analytics*
 
 ##### *Oracle Cloud Infrastructure (OCI), CISCO & EDTeam*:
@@ -12,7 +12,7 @@
 * **Udemy:** K8s
 
 
-### 02. stack
+### stack
 
 | area | tech |
 | :--- | :--- |

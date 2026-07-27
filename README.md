@@ -1,5 +1,5 @@
 # Kelvin Puch
-##### *Kelvin is a junior developer*
+##### *Kelvin is a jr. web developer specialized on Java web frameworks and Javascript frontend*
 
 ### certified
 > *ai foundations, java, python, data analytics*

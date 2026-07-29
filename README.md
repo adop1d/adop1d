@@ -4,7 +4,7 @@
 ### certified
 > *ai foundations, java, python, data analytics*
 
-##### *Oracle Cloud Infrastructure (OCI), CISCO & EDTeam*:
+##### *Oracle Cloud Infrastructure (OCI), CISCO, EF SEAT, Udemy & EDTeam*:
 * **OCI Generative AI & LLMs**
 * **EDteam:** Java.
 * **CISCO:** Python Essentials I, II, Data Analytics Essentials.

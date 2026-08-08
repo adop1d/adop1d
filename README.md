@@ -9,14 +9,14 @@
 * **EDteam:** Java.
 * **CISCO:** Python Essentials I, II, Data Analytics Essentials.
 * **EF SET:** English B2 Upper Intermediate Certified.
-* **Udemy:** K8s
+* **Udemy:** K8s, Temporal.io
 
 
 ### stack
 
 | area | tech |
 | :--- | :--- |
-| backend | **spring boot**, **django** |
+| backend | spring boot, django, temporal.io |
 | frontend | react.js, next.js, html/css, tailwind |
 | devops/db | postgresql, bash/shell, git/github, docker, k8s |
 | ai | agents, mcps, skills, etc. |

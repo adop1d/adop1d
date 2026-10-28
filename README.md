@@ -18,5 +18,5 @@
 | :--- | :--- |
 | backend | spring boot, vert.x, temporal.io |
 | frontend | react.js, next.js, html/css, tailwind |
-| devops/db | postgresql, bash/shell, git/github, docker, k8s |
-| ai | agents, mcps, skills, etc. |
+| devops/db | postgresql, bash/shell, git/github, docker, k8s, gcp |
+| ai | spec driven development, agents, mcps, skills, etc. |

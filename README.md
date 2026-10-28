@@ -1,7 +1,7 @@
 # Kelvin Puch
 
 ### certified
-> * cloud, ai agents, coding, data analytics, bilingual *
+> *cloud, ai agents, coding, data analytics, bilingual*
 
 ##### *Oracle Cloud Infrastructure (OCI), CISCO, EF SEAT, Udemy & EDTeam*:
 * **OCI Generative AI & LLMs**

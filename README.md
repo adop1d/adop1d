@@ -1,5 +1,4 @@
 # Kelvin Puch
-##### *Kelvin is a web developer specialized on Java web frameworks and Javascript frontend*
 
 ### certified
 > *ai foundations, java, python, data analytics*
@@ -9,8 +8,7 @@
 * **EDteam:** Java.
 * **CISCO:** Python Essentials I, II, Data Analytics Essentials.
 * **EF SET:** English B2 Upper Intermediate Certified.
-* **Udemy:** K8s, Temporal.io, Vert.x
-
+* **Udemy:** K8s, Temporal.io, Vert.x, Google Cloud Platform, Spec-driven Development.
 
 ### stack
 

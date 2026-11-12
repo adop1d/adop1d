@@ -1,4 +1,5 @@
 # Kelvin Puch
+Software Developer specialized in Digital Experiences, Cloud Native, and Event-Driven,
 
 ### stack
 
